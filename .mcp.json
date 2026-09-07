@@ -1,10 +1,7 @@
 {
   "mcpServers": {
     "mcpme": {
-      "command": "mcpme",
-      "env": {
-        "MCPME_CV_PATH": "/path/to/your-cv.md"
-      }
+      "command": "mcpme"
     }
   }
 }
