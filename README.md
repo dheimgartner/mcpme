@@ -5,8 +5,11 @@ A personal MCP server that exposes your CV so any MCP-compatible agent can answe
 ## Install
 
 ```bash
-pip install -e .
-# or with uv
+# Create a local virtual environment and install dependencies
+uv venv
+uv sync .
+
+# Or install globally as a tool
 uv tool install .
 ```
 
@@ -20,9 +23,11 @@ MCPME_CV_PATH=/path/to/your-cv.md mcpme
 
 ## Connect to Claude Code
 
-Add to `~/.claude/settings.json`:
+To connect the server to a specific project, create a local settings file:
 
-```json
+```bash
+mkdir -p .claude
+cat > .claude/settings.local.json << 'EOF'
 {
   "mcpServers": {
     "mcpme": {
@@ -33,7 +38,10 @@ Add to `~/.claude/settings.json`:
     }
   }
 }
+EOF
 ```
+
+Or add it to your global `~/.claude/settings.json` to make it available everywhere.
 
 ## What it exposes
 
