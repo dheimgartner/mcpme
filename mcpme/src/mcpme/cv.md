@@ -1,58 +1,71 @@
-# Alex Müller — Curriculum Vitae
+# CURRICULUM VITÆ
 
-## Personal Information
+## Persönliche Daten
 
-- **Name**: Alex Müller
-- **Email**: alex.mueller@example.com
-- **Location**: Zurich, Switzerland
-- **GitHub**: github.com/alexmueller
-- **LinkedIn**: linkedin.com/in/alexmueller
+**Dr. sc. ETH Zürich**
+**Daniel Heimgartner**
 
-## Summary
+Rütschistrasse 17, 8037 Zürich
+Tel.: 077 508 33 72
+E-Mail: d.heimgartners@gmail.com
+Geboren am 22. August 1992
+Schweiz
 
-Full-stack software engineer with 8 years of experience building data-intensive web applications and developer tools. Passionate about clean APIs, open-source collaboration, and making complex systems approachable. Fluent in English and German.
+## Profil
 
-## Work Experience
+Datenwissenschaftler und Volkswirt mit ETH-Doktorat. Statistische Modellierung, Machine Learning und KI-Methoden – mit Bezug zu hedonischen und räumlichen Fragestellungen. Ich baue robuste, automatisierte Modell- und Datenprozesse und vermittle quantitative Resultate verständlich, auch gegenüber nicht-technischen Kunden. Sehr gute Programmierkenntnisse in R und Python (Entwickler und Maintainer mehrerer Pakete).
 
-### Senior Software Engineer — DataFlow AG, Zurich (2021–present)
-- Lead backend engineer for a real-time analytics platform serving 500k+ daily active users
-- Designed and implemented a distributed ingestion pipeline in Python (FastAPI, Kafka, ClickHouse)
-- Reduced p99 query latency by 60% through query plan optimisation and caching layers
-- Mentored 3 junior engineers and introduced async code review practices
+## Berufserfahrung
 
-### Software Engineer — Webcraft GmbH, Berlin (2018–2021)
-- Built and maintained a multi-tenant SaaS product (React, Node.js, PostgreSQL)
-- Owned the billing integration (Stripe) and automated subscription lifecycle management
-- Introduced end-to-end testing with Playwright, cutting release regressions by 40%
+**2025–heute — Analytics & Automation Specialist, Eidgenössische Finanzmarktaufsicht**
+FINMA, Abteilung Analytics, Data and Automation
+- Automatisierung von Daten- und Geschäftsprozessen; Entwicklung und Wartung interner Software-Tools (Python, R, SQL)
+- Mitglied des Data Innovation Labs: Entwicklung von KI-gestützten Analyse- und Entscheidungstools
 
-### Junior Developer — Freelance (2016–2018)
-- Delivered 10+ client websites and e-commerce stores (Django, WordPress)
-- Built custom reporting dashboards for SMEs using Python and Pandas
+**2021–2025 — Doktorat, Institut für Verkehrsplanung und Transportsysteme, IVT, ETH Zürich**
+Prof. em. Kay W. Axhausen
+- Measuring and Modeling the Impact of Telework on Transport Demand: Schätzung statistischer Modelle und kausaler Effekte
+- Entwicklung und Publikation eigener R-Pakete (OPSR auf CRAN): https://github.com/dheimgartner/OPSR. Erweiterter Heckman-Ansatz für die Korrektur von Self-Selection. Angewandt auf GPS-Trackingdaten, um gleichzeitig die Wahl der Home-Office-Frequenz und der wöchentlichen Kilometerleistung zu modellieren
+- Projektleiter Multimodality in the Swiss New Normal mit Partnern SBB, AMAG, Kanton und Tiefbauamt Zürich
+- Datenverantwortlicher: Pflege der Forschungsdatensätze, Ansprechperson für Datenzugang
+- Lehrbeauftragter im Bachelor-Seminar Projektübung Verkehr
 
-## Education
+**2020–2021 — Praktikant SNB, Abteilung für Finanzstabilität**
+Schweizerische Nationalbank
+- Hypothekar- und COVID-Kreditmonitoring
+- Datenaufbereitung und Mithilfe bei ökonomischen Analysen (mit Berührungspunkt zum Schweizer Immobilienmarkt), sowie deren Automatisierung
 
-### M.Sc. Computer Science — ETH Zurich (2014–2016)
-- Thesis: "Efficient Approximate Query Processing over Data Streams"
-- Focus: distributed systems, databases, machine learning
+**2020 — Anstellung bei Nepa im Rahmen der Masterarbeit**
+Stockholm
+- Marketing-Mix-Modeling: Vergleich verschiedener Modelle zur Messung des (kausalen) Zusammenhangs zwischen Werbeausgaben und Umsatz
 
-### B.Sc. Computer Science — University of Bern (2011–2014)
-- Graduated with distinction
+**2019 — Wissenschaftlicher Mitarbeiter, Schweizerisches Institut für Empirische Wirtschaftsforschung**
+Universität St. Gallen
+- Aufbereitung und räumliche Analyse von Geodaten
 
-## Skills
+## Ausbildung
 
-**Languages**: Python, TypeScript, Go, SQL, Bash  
-**Frameworks**: FastAPI, React, Node.js, Django  
-**Data**: PostgreSQL, ClickHouse, Kafka, Redis, dbt  
-**Infrastructure**: Docker, Kubernetes, Terraform, GCP, GitHub Actions  
-**Other**: MCP, OpenAI & Anthropic APIs, Pandas, Pytest, Playwright
+**2018–2020 — MSc. in Ökonomie, Doppelmaster**
+Stockholm School of Economics & Universität St. Gallen
+- Vertiefung in makroökonomischer Modellierung und Datenanalyse
 
-## Open Source
+**2015–2018 — BSc. Sport, Bewegung und Gesundheit**
+Universität Basel
+- Zweitfach Business & Economics
 
-- **streamkit** (500+ GitHub stars): Python library for streaming data transformations
-- Contributor to FastAPI, dbt-core, and several smaller OSS projects
+**2012–2013 — Militärdienst als Gebirgsspezialist**
+Kompetenzzentrum Gebirgsdienst der Armee, Andermatt
+- Winter-RS; Verantwortung in technisch anspruchsvollem Gelände, Tourenplanung, improvisierte und organisierte Rettung in Fels und Eis
 
-## Languages
+**2008–2012 — Kantonsschule Wohlen, Gymnasium**
+- Schwerpunktfach Mathematik & Physik
 
-- German (native)
-- English (fluent)
-- French (conversational)
+## Fähigkeiten
+
+**Statistik & Machine Learning:** Regressionsanalyse, diskrete Wahlmodelle, kausale Inferenz, Modellvalidierung und -interpretation, Bootstrapping, Schätzmethoden (Gradient descent, Maximum likelihood, Bayesian methods), schnelle Auffassungsgabe und Verständnis für neue Methoden und Fähigkeit, diese robust zu implementieren.
+
+**Software:** R, Python, (T-)SQL, git (DevOps-Praktiken), Docker/podman, LaTeX, XML; Grundkenntnisse in Webtechnologien (HTML, CSS, JavaScript) und C/C++. Erfahrung im Umgang mit (dockerized) KI-Agenten (z.B. Claude Code), sowie deren Integration in die DevOps-Pipeline; Implementieren von KI-Agenten und agentic Workflows (z.B. mittels LangChain)
+
+**Sprachen:** Deutsch (Muttersprache), Englisch (C1), Schwedisch (B2), Französisch (B1)
+
+*7. September 2026*
