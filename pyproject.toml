@@ -1,0 +1,19 @@
+[project]
+name = "mcpme"
+version = "0.1.0"
+description = "A personal MCP server that exposes your CV so agents can answer questions about you"
+readme = "README.md"
+authors = [
+    { name = "Claude Agent", email = "claude-agent@container" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=2.2.0",
+]
+
+[project.scripts]
+mcpme = "mcpme:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
