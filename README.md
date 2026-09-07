@@ -2,6 +2,12 @@
 
 A personal MCP server that exposes your CV so any MCP-compatible agent can answer questions about you.
 
+## Demo
+
+<video src="https://github.com/dheimgartner/mcpme/raw/main/assets/demo.webm" controls muted playsinline width="720"></video>
+
+[Watch the demo](https://github.com/dheimgartner/mcpme/raw/main/assets/demo.webm) if the player above doesn't load.
+
 ## Install
 
 ```bash
