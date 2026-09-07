@@ -26,8 +26,7 @@ MCPME_CV_PATH=/path/to/your-cv.md mcpme
 To connect the server to a specific project, create a local settings file:
 
 ```bash
-mkdir -p .claude
-cat > .claude/settings.local.json << 'EOF'
+cat > .mcp.json << 'EOF'
 {
   "mcpServers": {
     "mcpme": {
