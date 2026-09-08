@@ -9,7 +9,7 @@ A personal MCP server that exposes your CV so any MCP-compatible agent can answe
 ```bash
 # Create a local virtual environment and install dependencies
 uv venv
-uv sync .
+uv sync
 
 # Or install globally as a tool
 uv tool install .
