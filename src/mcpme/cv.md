@@ -5,9 +5,9 @@
 **Dr. sc. ETH Zürich**
 **Daniel Heimgartner**
 
-Rütschistrasse 17, 8037 Zürich
-Tel.: 077 508 33 72
-E-Mail: d.heimgartners@gmail.com
+Rütschistrasse xx, 8037 Zürich
+Tel.: xxx xxx xx xx
+E-Mail: xxx@gmail.com
 Geboren am 22. August 1992
 Schweiz
 
